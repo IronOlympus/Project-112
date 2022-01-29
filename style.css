@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(148, 143, 143);
+}
+
+p{
+    color:white;
+}
+
+label{
+    color:white;
+}
+#camera{
+    border :2px dashed black;
+}
+
+#result{
+    border :2px dashed black;
+}
